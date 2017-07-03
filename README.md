@@ -5,4 +5,4 @@ Run
 
 First Node Install
 
-# node index.js 
+$ node index.js 
